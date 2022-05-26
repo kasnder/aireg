@@ -2,7 +2,7 @@
 layout: post
 title:  "Introductory talk, David Neubergery"
 author: david
-categories: [ AI, regulation, welcome ]
+categories: [ introduction ]
 image: assets/images/venice.jpg
 featured: false
 hidden: false
