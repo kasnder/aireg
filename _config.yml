@@ -15,7 +15,7 @@ permalink: /:title/
 authors:
   konrad:
     name: Konrad Kollnig
-    display_name: Konrad
+    display_name: Konrad Kollnig
     avatar: 'assets/images/konrad.jpg'
     #gravatar: e56154546cf4be74e393c62d1ae9f9d4
     #email: wowthemesnet@gmail.com
@@ -24,7 +24,7 @@ authors:
     description: "PhD Student, Department of Computer Science, University of Oxford"
   tess:
     name: Tess Buckley
-    display_name: Tess    
+    display_name: Tess Buckley 
     avatar: 'assets/images/tess.jpg'
     #gravatar: b1cc14991db7a456fcd761680bbc8f81
     #email: wowthemesnet@gmail.com
