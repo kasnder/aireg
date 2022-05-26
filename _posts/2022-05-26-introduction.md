@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introductory talk, David Neubergery"
+title:  "Introductory talk"
 author: david
 categories: [ introduction ]
 image: assets/images/venice.jpg
