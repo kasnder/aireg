@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Introductory talk, David Neubergery"
+author: david
+categories: [ AI, regulation, welcome ]
+image: assets/images/venice.jpg
+featured: false
+hidden: false
+---
+
 ROYAL SOCIETY, GOODENOUGH COLLEGE, JESUS COLLEGE OXFORD COLLOQUIUM ON AI AND REGULATION
 
 INTRODUCTORY TALK
