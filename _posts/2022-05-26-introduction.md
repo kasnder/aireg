@@ -8,10 +8,6 @@ featured: false
 hidden: false
 ---
 
-ROYAL SOCIETY, GOODENOUGH COLLEGE, JESUS COLLEGE OXFORD COLLOQUIUM ON AI AND REGULATION
-
-INTRODUCTORY TALK
-
 When the internet was launched, it was seen as a force for good, enabling everyone across the world to be informed and to communicate. Its potential risks and downsides were largely ignored. It was only when its downsides, such as trolling, fake news, and the dark web, came to light that the problems became appreciated. And that is a major reason why the law, which should be curbing such activities, is woefully lagging behind. And I would suggest that the internet also shows that you can’t leave regulation to the markets. 
 
 Not least because it is far more multi-faceted, AI is taking far longer than the internet to reach its full potential. If it is ever achievable, AGI, is I understand, maybe many decades away. However, even without AGI, AI has a considerably greater potential for change than the internet. So, if there is to be regulation we should certainly be preparing for it. And, while we are doing so, it is a daunting task. That is for a number of reasons:
