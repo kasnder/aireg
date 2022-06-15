@@ -3,7 +3,7 @@ layout: post
 title:  "Introductory talk"
 author: david
 categories: [ introduction ]
-image: assets/images/venice.jpg
+image: assets/images/earth.jpg
 featured: false
 published: true
 hidden: false
@@ -14,7 +14,6 @@ When the internet was launched, it was seen as a force for good, enabling everyo
 Not least because it is far more multi-faceted, AI is taking far longer than the internet to reach its full potential. If it is ever achievable, artificial general intelligence (AGI), is I understand, maybe many decades away. However, even without AGI, AI has a considerably greater potential for change than the internet. So, if there is to be regulation we should certainly be preparing for it. And, while we are doing so, it is a daunting task. That is for a number of reasons:
 
 1.  The law moves slowly, and even if it can be said to be developing more slowly than the internet, AI develops very fast. 
-
 2.  While the situation is getting much better, lawmakers, lawyers and regulators are embarrassingly ignorant about the nature and workings of IT – and those at the cutting edge iof AI are not generally interested in the law; 
 3.  AI throws up new and challenging legal and regulatory issues, and while we should be preparing, we should not be rushing our fences – and we should be ready to adapt; 
 4.  The more regulation and transparency that is required, the greater the threat to a machine’s effectiveness; 
