@@ -9,8 +9,6 @@ published: true
 hidden: false
 ---
 
-**To Do: Fix reference to respect paper (in text and in bib).**
-
 Writing law that governs and accounts for the actions of AI necessitates
 critical interrogation of exactly what law *is*. What are the criteria
 for legal validity? What is justice? What separates right from wrong?
@@ -44,8 +42,7 @@ As discussed by *Max Van Kleek* at the Colloquium, justice encompasses a
 broader ideal of civic friendship or, more specifically, respectful
 behavior. He takes respect to be a foundational concept in framing our
 understanding of the norms, conventions, regulations and law that we
-might wish to see emerge in an age of AI (\*Van Kleek, approval
-needed\*).
+might wish to see emerge in an age of AI (Seymour, 2022).
 
 ## Who is Held Responsible?
 
@@ -232,8 +229,7 @@ Belknap Press of Harvard University Press.*
 challenges and vulnerabilities, Journal of Responsible Technology,Volume 4 100005, ISSN 2666-6596,
 [[https://doi.org/10.1016/j.jrt.2020.100005]{.underline}](https://doi.org/10.1016/j.jrt.2020.100005).*
 
-\*Van Kleek, Max. (2022) *Respect as a Lense for the Design of AI
-Systems.* - unpublished? Need permissions and clarification.\*
+Seymour, W., Van Kleek, M., Binns, R., Murray-Rust, D. (2022). *Respect as a Lens for the Design of AI Systems.* In *Proceedings of the 2022 AAAI/ACM Conference on AI, Ethics, and Society (AIES ’22), August 1–3, 2022, Oxford, United Kingdom*, https://doi.org/10.1145/3514094.3534186.
 
 Whittaker, M., Crawford, K., Dobbe, R., Fried, G., Kaziunas, E., Mathur,
 V., \... & Schwartz, O. *(2018). AI now report (pp. 1-62)*. New York: AI
