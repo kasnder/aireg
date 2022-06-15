@@ -9,6 +9,8 @@ published: true
 hidden: false
 ---
 
+**To Do: Fix reference to respect paper (in text and in bib).**
+
 Writing law that governs and accounts for the actions of AI necessitates
 critical interrogation of exactly what law *is*. What are the criteria
 for legal validity? What is justice? What separates right from wrong?
