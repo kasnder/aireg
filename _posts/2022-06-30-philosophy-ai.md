@@ -209,36 +209,36 @@ Gregor MJ. Cambridge University Press, New York*
 *Kaplan, Karl. Manheim, Lyric. (2019). Artificial Intelligence: Risks to
 Privacy and Democracy.* Artificial Intelligence: Risks to Privacy and
 Democracy \| Yale Journal of Law & Technology.
-*https://yjolt.org/artificial-intelligence-risks-privacy-and-democracy.*
+<https://yjolt.org/artificial-intelligence-risks-privacy-and-democracy>.
 
 *Nussbaum, Martha C. (2004). Beyond \'compassion and humanity\': Justice
 for nonhuman animals. In Cass R. Sunstein & Martha Craven Nussbaum
-(eds.), \_Animal Rights: Current Debates and New Directions\_. Oxford
-University Press. pp. 299\--320.*
+(eds.), Animal Rights: Current Debates and New Directions. Oxford
+University Press. pp. 299--320.*
 
 *Plato. Plato\'s The Republic. New York :Books, Inc.,1943.*
 
 *Rahwan, I. Society-in-the-loop: programming the algorithmic social
 contract. Ethics Inf Technol 20, 5--14 (2018).
-https://doi.org/10.1007/s10676-017-9430-8*
+<https://doi.org/10.1007/s10676-017-9430-8>*
 
 *Rawls, John. (1971). A Theory of Justice. Cambridge, Massachusetts :The
 Belknap Press of Harvard University Press.*
 
 *Rodrigues, Rowena. (2020). Legal and human rights issues of AI: Gaps,
 challenges and vulnerabilities, Journal of Responsible Technology,Volume 4 100005, ISSN 2666-6596,
-[[https://doi.org/10.1016/j.jrt.2020.100005]{.underline}](https://doi.org/10.1016/j.jrt.2020.100005).*
+<https://doi.org/10.1016/j.jrt.2020.100005>*
 
-Seymour, W., Van Kleek, M., Binns, R., Murray-Rust, D. (2022). *Respect as a Lens for the Design of AI Systems.* In *Proceedings of the 2022 AAAI/ACM Conference on AI, Ethics, and Society (AIES ’22), August 1–3, 2022, Oxford, United Kingdom*, https://doi.org/10.1145/3514094.3534186.
+Seymour, W., Van Kleek, M., Binns, R., Murray-Rust, D. (2022). *Respect as a Lens for the Design of AI Systems.* In *Proceedings of the 2022 AAAI/ACM Conference on AI, Ethics, and Society (AIES ’22), August 1–3, 2022, Oxford, United Kingdom*, <https://doi.org/10.1145/3514094.3534186>
 
 Whittaker, M., Crawford, K., Dobbe, R., Fried, G., Kaziunas, E., Mathur,
 V., \... & Schwartz, O. *(2018). AI now report (pp. 1-62)*. New York: AI
 Now Institute at New York University.
 
 Winner, Langdon. (2014). Technologies as Forms of Life.
-10.1057/9781137349088_4.
+<https://doi.org/10.1057/9781137349088_4>
 
 Zuckerman, Adrian. (2020). *Adrian Zuckerman: Artificial Intelligence --
 Implications for the Legal Profession, Adversarial Process and the Rule
 of Law.* UK Constitutional Law Association,
-https://ukconstitutionallaw.org/2020/03/10/artificial-intelligence-implications-for-the-legal-profession-adversarial-process-and-the-rule-of-law/.
+<https://ukconstitutionallaw.org/2020/03/10/artificial-intelligence-implications-for-the-legal-profession-adversarial-process-and-the-rule-of-law/>
