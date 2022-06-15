@@ -5,6 +5,7 @@ author: david
 categories: [ introduction ]
 image: assets/images/venice.jpg
 featured: false
+published: true
 hidden: false
 ---
 
