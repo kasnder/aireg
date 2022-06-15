@@ -17,8 +17,6 @@ authors:
     name: Konrad Kollnig
     display_name: Konrad Kollnig
     avatar: 'assets/images/konrad.jpg'
-    #gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    #email: wowthemesnet@gmail.com
     web: https://kollnig.net
     twitter: https://twitter.com/FascinatingTech
     description: "PhD Student, Department of Computer Science, University of Oxford"
@@ -26,19 +24,12 @@ authors:
     name: Tess Buckley
     display_name: Tess Buckley 
     avatar: 'assets/images/tess.jpg'
-    #gravatar: b1cc14991db7a456fcd761680bbc8f81
-    #email: wowthemesnet@gmail.com
     web: https://www.linkedin.com/in/tess-buckley-a9580b166/
-    #twitter: https://twitter.com/wowthemesnet
     description: "Governor and Members Council Chair at Goodenough College. Philosophy and Artificial Intelligence MA Candidate."
   david:
     name: David Neuberger
     display_name: David Neuberger
-    #avatar: 'assets/images/david.jpg'
-    #gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    #email: wowthemesnet@gmail.com
-    #web: https://kollnig.net
-    #twitter: https://twitter.com/FascinatingTech
+    avatar: 'assets/images/david.jpg'
     description: "English Judge and Former President of the UK Supreme Court"
 
 # Plugins
