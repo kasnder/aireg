@@ -1,8 +1,8 @@
 ---
- layout: page
- title: Team
- permalink: /team
- ---
+layout: page
+title: Team
+permalink: /team
+---
 
 The seminar in Venice brought together a wealth of outstanding individuals, from Goodenough College and the University of Oxford, and their friends.
 
