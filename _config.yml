@@ -31,6 +31,12 @@ authors:
     avatar: 'assets/images/tess.jpg'
     web: https://www.linkedin.com/in/tess-buckley-a9580b166/
     description: "MA Philosophy and Artificial Intelligence, NCH at Northeastern University"
+  luke:
+    name: Luke Thorburn
+    display_name: Luke Thorburn
+    avatar: 'assets/images/luke.jpg'
+    web: https://www.linkedin.com/in/luke-thorburn/
+    description: "Doctoral candidate in Safe & Trusted AI at King's College London"
   david:
     name: David Neuberger
     display_name: David Neuberger
