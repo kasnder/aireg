@@ -12,3 +12,14 @@ The seminar in Venice brought together a wealth of outstanding individuals, from
 - The Honourable Alice Walpole OBE (Goodenough College)
 - The Revd Dr Alan McCormack (Goodenough College)
 - Dr Max Van Kleek (University of Oxford)
+- Dr Jun Zhao (University of Oxford)
+- Tess Buckley
+- Zheng Hong Sebastian See
+- Jake Stein
+- Konrad Kollnig
+- Rachel Venn
+- Dr Karan Mehta
+- Alexandra Houston
+- Ge (Tiffany) Wang
+- Luke Thorburn
+- Claudine Tinsman
