@@ -4,7 +4,7 @@ title: Team
 permalink: /team
 ---
 
-The seminar in Venice brought together a wealth of outstanding individuals, from Goodenough College and the University of Oxford, and their friends.
+The seminar in Venice brought together a wealth of outstanding individuals, from Goodenough College and the University of Oxford, and their friends:
 
 - Professor Sir Nigel Shadbolt FRS (University of Oxford)
 - The Rt Hon The Lord Neuberger of Abbotsbury HonFRS
