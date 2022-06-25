@@ -147,76 +147,76 @@ the processes via which algorithmic design decisions are made, we may be
 able to mitigate the ways that artificially 'intelligent' systems can
 exacerbate societal divisions.
 
-[^1]: Levi Boxell, Matthew Gentzkow + Jesse Shapiro, [[Cross-Country
+[^1]: Levi Boxell, Matthew Gentzkow + Jesse Shapiro, [Cross-Country
     Trends in Affective
-    Polarization]{.underline}](https://doi.org/10.3386/w26669), 2021.
+    Polarization](https://doi.org/10.3386/w26669), 2021.
 
-[^2]: Evelyn Douek, [[Governing Online Speech: From \'Posts-As-Trumps\'
+[^2]: Evelyn Douek, [Governing Online Speech: From \'Posts-As-Trumps\'
     to Proportionality and
-    Probability]{.underline}](http://dx.doi.org/10.2139/ssrn.3679607),
+    Probability](http://dx.doi.org/10.2139/ssrn.3679607),
     2021.
 
-[^3]: The Royal Society, [[The Online Information
-    Environment]{.underline}](https://royalsociety.org/-/media/policy/projects/online-information-environment/the-online-information-environment.pdf)
+[^3]: The Royal Society, [The Online Information
+    Environment](https://royalsociety.org/-/media/policy/projects/online-information-environment/the-online-information-environment.pdf)
     2022.
 
-[^4]: Luke Thorburn, Jonathan Stray + Priyanjana Bengani, [[What Does it
+[^4]: Luke Thorburn, Jonathan Stray + Priyanjana Bengani, [What Does it
     Mean to Give Someone What They Want? The Nature of Preferences in
     Recommender
-    Systems]{.underline}](https://medium.com/understanding-recommenders/what-does-it-mean-to-give-someone-what-they-want-the-nature-of-preferences-in-recommender-systems-82b5a1559157),
+    Systems](https://medium.com/understanding-recommenders/what-does-it-mean-to-give-someone-what-they-want-the-nature-of-preferences-in-recommender-systems-82b5a1559157),
     2022.
 
-[^5]: Ulrik Lyngs, [[Putting Self-Control at the Centre of Digital
-    Wellbeing]{.underline}](https://ulriklyngs.com/pdfs/2019-02-08_Lyngs_workshop_digi_wellbeing.pdf),
+[^5]: Ulrik Lyngs, [Putting Self-Control at the Centre of Digital
+    Wellbeing](https://ulriklyngs.com/pdfs/2019-02-08_Lyngs_workshop_digi_wellbeing.pdf),
     2019.
 
-[^6]: Charles Evans + Atoosa Kasirzadeh, [[User Tampering in
+[^6]: Charles Evans + Atoosa Kasirzadeh, [User Tampering in
     Reinforcement Learning Recommender
-    Systems]{.underline}](https://arxiv.org/pdf/2109.04083.pdf), 2021.
+    Systems](https://arxiv.org/pdf/2109.04083.pdf), 2021.
 
 [^7]: Roxanne El Baff, Henning Wachsmuth, Khalid Al Khatib, Manfred
-    Stede + Benno Stein, [[Computational Argumentation Synthesis as a
+    Stede + Benno Stein, [Computational Argumentation Synthesis as a
     Language Modeling
-    Task]{.underline}](http://dx.doi.org/10.18653/v1/W19-8607), 2019.
+    Task](http://dx.doi.org/10.18653/v1/W19-8607), 2019.
 
-[^8]: Lisanne Bainbridge, [[Ironies of
-    Automation]{.underline}](https://doi.org/10.1016/S1474-6670(17)62897-0),
+[^8]: Lisanne Bainbridge, [Ironies of
+    Automation](https://doi.org/10.1016/S1474-6670(17)62897-0),
     1983.
 
-[^9]: Heather Hughes + Israel Waismel-Manor, [[The Macedonian Fake News
+[^9]: Heather Hughes + Israel Waismel-Manor, [The Macedonian Fake News
     Industry and the 2016 US
-    Election]{.underline}](https://doi.org/10.1017/S1049096520000992),
+    Election](https://doi.org/10.1017/S1049096520000992),
     2020.
 
 [^10]: Alexander Stewart, Mohsen Mosleh, Marina Diakonova, Antonio
-    Arechar, David Rand + Joshua B. Plotkin, [[Information
+    Arechar, David Rand + Joshua B. Plotkin, [Information
     gerrymandering and undemocratic
-    decisions]{.underline}](https://www.nature.com/articles/s41586-019-1507-6),
+    decisions](https://www.nature.com/articles/s41586-019-1507-6),
     2019.
 
 [^11]: Luke Thorburn + Ariel Kruger, Optimizing Language Models for
     Argumentative Reasoning, forthcoming.
 
-[^12]: Kevin Roose, [[Inside Facebook's Data
-    Wars]{.underline}](https://www.nytimes.com/2021/07/14/technology/facebook-data.html),
+[^12]: Kevin Roose, [Inside Facebook's Data
+    Wars](https://www.nytimes.com/2021/07/14/technology/facebook-data.html),
     2021.
 
-[^13]: Russell Brandom, [[Facebook shut down German research on
+[^13]: Russell Brandom, [Facebook shut down German research on
     Instagram algorithm, researchers
-    say]{.underline}](https://www.theverge.com/2021/8/13/22623354/facebook-instagram-algorithm-watch-research-legal-threat),
+    say](https://www.theverge.com/2021/8/13/22623354/facebook-instagram-algorithm-watch-research-legal-threat),
     2021.
 
-[^14]: Iyad Rahwan, [[Society-in-the-Loop: Programming the Algorithmic
+[^14]: Iyad Rahwan, [Society-in-the-Loop: Programming the Algorithmic
     Social
-    Contract]{.underline}](https://link.springer.com/article/10.1007/s10676-017-9430-8),
+    Contract](https://link.springer.com/article/10.1007/s10676-017-9430-8),
     2018.
 
-[^15]: Aviv Ovadya, [[Towards Platform Democracy: Policymaking Beyond
+[^15]: Aviv Ovadya, [Towards Platform Democracy: Policymaking Beyond
     Corporate CEOs and Partisan
-    Pressure]{.underline}](https://www.belfercenter.org/publication/towards-platform-democracy-policymaking-beyond-corporate-ceos-and-partisan-pressure),
+    Pressure](https://www.belfercenter.org/publication/towards-platform-democracy-policymaking-beyond-corporate-ceos-and-partisan-pressure),
     2021.
 
-[^16]: Juan Ugarriza + Didier Caluwaerts, [[Democratic Deliberation in
+[^16]: Juan Ugarriza + Didier Caluwaerts, [Democratic Deliberation in
     Deeply Divided Societies: From Conflict to Common
-    Ground]{.underline}](https://link.springer.com/book/10.1057/9781137357816),
+    Ground](https://link.springer.com/book/10.1057/9781137357816),
     2014.
