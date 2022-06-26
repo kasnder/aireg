@@ -2,7 +2,6 @@
 layout: page
 title: Team
 permalink: /team
-image: assets/images/team.jpg
 ---
 
 The Joint Colloquium between Oxford University and Goodenough College brought together a wealth of outstanding interdisciplinary academics;
