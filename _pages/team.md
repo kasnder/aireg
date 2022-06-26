@@ -23,7 +23,7 @@ We thank you all for your contribution to the colloquium and this project.
 			<div class="single-member">
 				<div class="thumb relative" style="background: url(assets/images/tess.jpg);">
 					<div class="overlay overlay-member legaltech d-flex flex-column justify-content-end align-items-center">
-						<p class="text-white">PhD Student, Department of Computer Science, University of Oxford</p>
+						<p class="text-white">MA Philosophy and Artificial Intelligence, NCH at Northeastern University</p>
 						<div class="line"></div>
 						<div class="social d-flex align-items-center justify-content-center">
 							<a href="https://www.linkedin.com/in/tess-buckley-a9580b166/" target="_blank"><i class="fab fa-linkedin"></i></a>
