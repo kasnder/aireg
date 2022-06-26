@@ -910,7 +910,7 @@ iframe {
 	background: rgba($black, .7);
 }
 .single-member {
-  /*margin-top: 30px;*/
+  margin-top: 30px;
 }
 
 .single-member .thumb {
@@ -1010,6 +1010,6 @@ iframe {
 .single-member .desc p {
   margin: 0;
 }
-.team {
-	padding: 0;
+.relative {
+	position:relative
 }
