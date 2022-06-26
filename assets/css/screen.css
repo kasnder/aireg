@@ -910,7 +910,7 @@ iframe {
 	background: rgba($black, .7);
 }
 .single-member {
-  margin-top: 30px;
+  /*margin-top: 30px;*/
 }
 
 .single-member .thumb {
