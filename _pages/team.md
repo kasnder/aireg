@@ -2,24 +2,21 @@
 layout: page
 title: Team
 permalink: /team
+image: assets/images/team.jpg
 ---
 
-The seminar in Venice brought together a wealth of outstanding individuals, from Goodenough College and the University of Oxford, and their friends:
+The Joint Colloquium between Oxford University and Goodenough College brought together a wealth of outstanding interdisciplinary academics;
 
-- Professor Sir Nigel Shadbolt FRS (University of Oxford)
-- The Rt Hon The Lord Neuberger of Abbotsbury HonFRS
-- Dr Julie Maxton (The Royal Society)
-- The Honourable Alice Walpole OBE (Goodenough College)
-- The Revd Dr Alan McCormack (Goodenough College)
-- Dr Max Van Kleek (University of Oxford)
-- Dr Jun Zhao (University of Oxford)
-- Tess Buckley
-- Zheng Hong Sebastian See
-- Jake Stein
-- Konrad Kollnig
-- Rachel Venn
-- Dr Karan Mehta
-- Alexandra Houston
-- Ge (Tiffany) Wang
-- Luke Thorburn
-- Claudine Tinsman
+The dialogue was made possible by The Honourable Alice Walpole OBE from Goodenough College and The Revd Dr Alan McCormack from Goodenough College.
+
+The Colloquium was facilitated by three leading figures in the fields of AI, Science and of Law; Professor Sir Nigel Shadbolt FRS from the University of Oxford, The Rt Hon The Lord Neuberger of Abbotsbury HonFRS and Dr Julie Maxton from The Royal Society.
+
+The researchers from the University of Oxford included Dr Max Van Kleek, Dr Jun Zhao, Dr Ulrik Lyngs, Jake Stein, Konrad Kollnig, Ge (Tiffany) Wang and Claudine Tinsman.
+
+The academics from Goodenough College included Zheng Hong Sebastian See, Rachel Venn, Tess Buckley, Dr Karan Mehta, Alexandra Houston and Luke Thorburn.
+
+We thank you all for your contribution to the colloquium and this project.
+
+<p align="center">
+    <img alt="The team" src="assets/images/team.jpg" style="margin: 0 auto;" height="100%" width="80%" >
+</p>
