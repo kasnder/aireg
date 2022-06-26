@@ -25,7 +25,7 @@ We thank you all for your contribution to the colloquium and this project.
 
 		<div class="col-lg-3 col-sm-6">
 			<div class="single-member">
-				<div class="thumb relative" style="background: url(assets/images/team/konrad.jpeg);">
+				<div class="thumb relative" style="background: url(assets/images/konrad.jpg);">
 					<div class="overlay overlay-member legaltech d-flex flex-column justify-content-end align-items-center">
 						<p class="text-white">Konrad is a <b>DPhil candidate in Computer Science</b> (2019). He organises event around data protection and privacy, and helps manage IT resources in OFLS.</p>
 						<div class="line"></div>
@@ -42,7 +42,7 @@ We thank you all for your contribution to the colloquium and this project.
 		</div>
 		<div class="col-lg-3 col-sm-6">
 			<div class="single-member">
-				<div class="thumb relative" style="background: url(assets/images/team/konrad.jpeg);">
+				<div class="thumb relative" style="background: url(assets/images/konrad.jpg);">
 					<div class="overlay overlay-member legaltech d-flex flex-column justify-content-end align-items-center">
 						<p class="text-white">Konrad is a <b>DPhil candidate in Computer Science</b> (2019). He organises event around data protection and privacy, and helps manage IT resources in OFLS.</p>
 						<div class="line"></div>
