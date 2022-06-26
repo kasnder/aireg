@@ -23,7 +23,7 @@ We thank you all for your contribution to the colloquium and this project.
 <div class="container">
 	<div class="row">
 
-		<div class="col-lg-3 col-sm-6">
+		<div class="col-lg-3 col-sm-6 team">
 			<div class="single-member">
 				<div class="thumb relative" style="background: url(assets/images/konrad.jpg);">
 					<div class="overlay overlay-member legaltech d-flex flex-column justify-content-end align-items-center">
