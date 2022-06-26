@@ -16,10 +16,6 @@ The academics from Goodenough College included Zheng Hong Sebastian See, Rachel 
 
 We thank you all for your contribution to the colloquium and this project.
 
-<p align="center">
-    <img alt="The team" src="assets/images/team.jpg" style="margin: 0 auto;" height="100%" width="80%" >
-</p>
-
 <div class="container">
 	<div class="row">
 
