@@ -21,33 +21,11 @@ We thank you all for your contribution to the colloquium and this project.
 </p>
 
 <div class="container">
-	<div class="row justify-content-md-center text-center mb-5">
-		<div class="col-lg-7"> <!--7-->
-			<h2 class="mt-0 heading-border-top font-weight-normal">Team</h2>
-			<p class="text-white"><a href="mailto:contact@oxfordfls.org">contact@oxfordfls.org</a></p>
-		</div>
-	</div>
-
-	<div class="row">
-		<div class="col-lg-3 col-sm-6">
-			<div class="text-center"> <font color="black">EXECUTIVE</font> </div>
-		</div>
-		<div class="col-lg-3 col-sm-6">
-			<div class="text-center"> <font color="blue">FINTECH</font> </div><!--#110e4e-->
-		</div>
-		<div class="col-lg-3 col-sm-6">
-			<div class="text-center"> <font color="green">LEGALTECH</font> </div><!--#0e4e0f-->
-		</div>
-		<div class="col-lg-3 col-sm-6">
-			<div class="text-center"> <font color="maroon">PUBLICITY</font> </div><!--#450d0d-->
-		</div>
-
-	</div>
 	<div class="row">
 
 		<div class="col-lg-3 col-sm-6">
 			<div class="single-member">
-				<div class="thumb relative" style="background: url(assets/images/team/konrad.jpeg);">
+				<div class="thumb relative" style="background: url(assets/images/konrad.jpg);">
 					<div class="overlay overlay-member legaltech d-flex flex-column justify-content-end align-items-center">
 						<p class="text-white">Konrad is a <b>DPhil candidate in Computer Science</b> (2019). He organises event around data protection and privacy, and helps manage IT resources in OFLS.</p>
 						<div class="line"></div>
