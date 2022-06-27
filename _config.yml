@@ -17,7 +17,7 @@ authors:
     name: David Neuberger
     display_name: David Neuberger
     avatar: 'assets/images/david.jpg'
-    description: "English Judge and Former President of the UK Supreme Court"
+    description: "The Rt Hon The Lord David Neuberger of Abbotsbury HonFRS"
     web: https://www.oeclaw.co.uk/barristers/profile/lord-neuberger-of-abbotsbury
   tesskonrad:
     name: Tess Buckley and Konrad Kollnig
@@ -43,6 +43,7 @@ authors:
     avatar: 'assets/images/luke.jpg'
     web: https://www.linkedin.com/in/luke-thorburn/
     description: "Doctoral candidate in Safe & Trusted AI at King's College London"
+  
 
 # Plugins
 plugins:
