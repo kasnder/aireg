@@ -43,7 +43,72 @@ authors:
     avatar: 'assets/images/luke.jpg'
     web: https://lukethorburn.com
     description: "Doctoral candidate in Safe & Trusted AI at King's College London"
-  
+  Nigel:
+    name: Nigel Shadbolt
+    display_name: Nigel Shadbolt
+    avatar: 'shadbolt.jpeg’
+    web: https://www.jesus.ox.ac.uk/about-jesus-college/our-community/people/nigel-shadbolt/
+    description: "Professor Sir Nigel Shadbolt FRS from the University of Oxford"
+  Julie:
+    name: Dr Julie Maxton
+    display_name: Dr Julie Maxton
+    avatar: ‘Maxton.jpg’
+    web: https://royalsociety.org/people/julie-maxton-10021/ 
+    description: "Executive Director of the Royal Society" 
+  Max:
+    name: Dr Max Van Kleek
+    display_name: Dr Max Van Kleek
+    avatar: ‘Kleek.png’
+    web: https://hip.cat/emax/about
+    description: "Associate Professor of Human-Computer Interaction with the Department of Computer Science, at the University of Oxford"
+  Ulrik:
+    name: Ulrik Lyngs
+    display_name: Ulrik Lyngs
+    avatar: 'Lyngs.jpeg'
+    web: https://ulriklyngs.com 
+    description: "Carlsberg Foundation Oxford Visiting Fellow at the University of Oxford’s Human Centred Computing group"
+  Jake:
+    name: Jake Stein
+    display_name: Jake Stein 
+    avatar: ‘stein.jpg’
+    web: https://www.linkedin.com/in/jake-stein-he-him-b7b4b594/?originalSubdomain=uk
+    description: "Oxford Martin School Doctoral Researcher for Ethical Web and Data Architectures in the Age of AI"
+  Ge:
+    name: Ge Wang
+    display_name: Ge Wang 
+    avatar: ‘wang.jpeg’
+    web: https://www.tiffanygewang.com 
+    description: "Dphil student in the Department of Computer Science at University of Oxford"
+  Claudine:
+    name: Claudine Tinsman
+    display_name: Claudine Tinsman 
+    avatar: ‘Tinsman.jpg’
+    web: https://www.cs.ox.ac.uk/people/claudine.tinsman/
+    description: "DPhil candidate in Cyber Security"
+  See:
+    name: Zheng Hong Sebastian See
+    display_name: Zheng Hong Sebastian See
+    avatar: ‘see.jpg’
+    web: https://www.linkedin.com/in/zheng-hong-sebastian-see/?originalSubdomain=uk 
+    description: "LLB and BCL Lawyer and BVS Student"
+  Rachel:
+    name: Rachel Venn
+    display_name: Rachel Venn
+    Avatar: ‘Venn.jpeg'
+    web: https://www.linkedin.com/in/rachelvenn/
+    description: "MSc Space Science and Engineering at UCL"
+  Karan:
+    name: Dr Karan Mehta
+    display_name: Dr Karan Mehta
+    avatar: ‘Mehta’
+    web: https://www.linkedin.com/in/dr-karan-mehta-73272277/?originalSubdomain=uk 
+    description: "Founder & CEO at Bluezone Insurance" 
+  Alexandra:
+    name: Alexandra Houston
+    display_name: Alexandra Houston
+    avatar: ‘Houston”
+    web: https://www.linkedin.com/in/alexandra-houston-76aab4ba/
+    description: "Public Health MSc Student at LSHTM"
 
 # Plugins
 plugins:
