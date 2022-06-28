@@ -88,7 +88,7 @@ authors:
   See:
     name: Zheng Hong Sebastian See
     display_name: Zheng Hong Sebastian See
-    avatar: assets/images/see.jpg
+    avatar: assets/images/see.jpeg
     web: https://www.linkedin.com/in/zheng-hong-sebastian-see/?originalSubdomain=uk 
     description: "LLB and BCL Lawyer and BVS Student"
   Rachel:
@@ -100,13 +100,13 @@ authors:
   Karan:
     name: Dr Karan Mehta
     display_name: Dr Karan Mehta
-    avatar: assets/images/Mehta
+    avatar: assets/images/Mehta.jpeg
     web: https://www.linkedin.com/in/dr-karan-mehta-73272277/?originalSubdomain=uk 
     description: "Founder & CEO at Bluezone Insurance" 
   Alexandra:
     name: Alexandra Houston
     display_name: Alexandra Houston
-    avatar: assets/images/Houston.jpg
+    avatar: assets/images/Houston.jpeg
     web: https://www.linkedin.com/in/alexandra-houston-76aab4ba/
     description: "Public Health MSc Student at LSHTM"
 
