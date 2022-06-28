@@ -13,12 +13,30 @@ permalink: /:title/
 
 # Authors
 authors:
+  Nigel:
+    name: Nigel Shadbolt
+    display_name: Nigel Shadbolt
+    avatar: assets/images/shadbolt.jpeg
+    web: https://www.jesus.ox.ac.uk/about-jesus-college/our-community/people/nigel-shadbolt/
+    description: "Professor Sir Nigel Shadbolt FRS from the University of Oxford"
   david:
     name: David Neuberger
     display_name: David Neuberger
     avatar: 'assets/images/david.jpg'
     description: "The Rt Hon The Lord David Neuberger of Abbotsbury HonFRS"
     web: https://www.oeclaw.co.uk/barristers/profile/lord-neuberger-of-abbotsbury
+  Julie:
+    name: Dr Julie Maxton
+    display_name: Dr Julie Maxton
+    avatar: assets/images/Maxton.jpg
+    web: https://royalsociety.org/people/julie-maxton-10021/ 
+    description: "Executive Director of the Royal Society" 
+  Max:
+    name: Dr Max Van Kleek
+    display_name: Dr Max Van Kleek
+    avatar: assets/images/Kleek.png
+    web: https://hip.cat/emax/about
+    description: "Associate Professor of Human-Computer Interaction with the Department of Computer Science, at the University of Oxford"
   tesskonrad:
     name: Tess Buckley and Konrad Kollnig
     display_name: Tess and Konrad
@@ -43,24 +61,6 @@ authors:
     avatar: 'assets/images/luke.jpg'
     web: https://lukethorburn.com
     description: "Doctoral candidate in Safe & Trusted AI at King's College London"
-  Nigel:
-    name: Nigel Shadbolt
-    display_name: Nigel Shadbolt
-    avatar: assets/images/shadbolt.jpeg
-    web: https://www.jesus.ox.ac.uk/about-jesus-college/our-community/people/nigel-shadbolt/
-    description: "Professor Sir Nigel Shadbolt FRS from the University of Oxford"
-  Julie:
-    name: Dr Julie Maxton
-    display_name: Dr Julie Maxton
-    avatar: assets/images/Maxton.jpg
-    web: https://royalsociety.org/people/julie-maxton-10021/ 
-    description: "Executive Director of the Royal Society" 
-  Max:
-    name: Dr Max Van Kleek
-    display_name: Dr Max Van Kleek
-    avatar: assets/images/Kleek.png
-    web: https://hip.cat/emax/about
-    description: "Associate Professor of Human-Computer Interaction with the Department of Computer Science, at the University of Oxford"
   Ulrik:
     name: Ulrik Lyngs
     display_name: Ulrik Lyngs
