@@ -35,11 +35,11 @@ After all, there is no universal definition of AI.
 There are arguably three possible theories of to who or what the
 regulation of AI applies.
 
-1)  The regulation of 'a computational technology for decision making'.
-2)  The regulation of 'a field of scientific research that studies
+1.  The regulation of 'a computational technology for decision making'.
+2.  The regulation of 'a field of scientific research that studies
     theories and methods for adaptability, interaction, and autonomy of
     machines'.
-3)  The regulation of 'an intelligent entity that acts autonomously in
+3.  The regulation of 'an intelligent entity that acts autonomously in
     (our) environment'.
 
 (UMEA University, Prof Dr Virginia Dignum)
@@ -85,11 +85,9 @@ above.
 Further, we ought to consider what type of regulatory model we should
 adopt. This article looks into three different models:
 
-1)  Centralised
-
-2)  Decentralised
-
-3)  Other (in-between/hybrid)
+1.  Centralised
+2.  Decentralised
+3.  Other (in-between/hybrid)
 
 
 ###  Centralised
@@ -114,12 +112,12 @@ AI-related monopolies.
 
 Also, it puts forward six basic ethical requirements, namely:
 
-1)  the advancement of human welfare,
-2)  the promotion of fairness and justice,
-3)  the protection of privacy and security,
-4)  the assurance of controllability and trustworthiness,
-5)  the strengthening of accountability, and
-6)  improvements to the cultivation of ethics.
+1.  the advancement of human welfare,
+2.  the promotion of fairness and justice,
+3.  the protection of privacy and security,
+4.  the assurance of controllability and trustworthiness,
+5.  the strengthening of accountability, and
+6.  improvements to the cultivation of ethics.
 
 One key observation is that there is a significant overlapping of
 these ethical requirements with that of the *eight overarching AI
@@ -224,9 +222,9 @@ is better than cure.
 
 Nevertheless, regulating AI is a challenging exercise. Three main challenges include:
 
-1)  A context-specific regulatory model is required,
-2)  New risks, and
-3)  Transparency (*ex-ante/ex-post*) of the AI (Reed 2018).
+1.  A context-specific regulatory model is required,
+2.  New risks, and
+3.  Transparency (*ex-ante/ex-post*) of the AI (Reed 2018).
 
 First, it is virtually impossible to have a broad,
 one-size-fit-it-all regulatory model. This is because the deployment
@@ -283,25 +281,25 @@ signposts on how to overcome this challenge.
 
 ## Bibliography
 
-1)  Dignum V, '(HOW) SHOULD AI BE REGULATED?' Umea University,
+1.  Dignum V, '(HOW) SHOULD AI BE REGULATED?' Umea University,
     <https://ec.europa.eu/jrc/communities/sites/default/files/22_10.30_how_should_ai_be_regulated_virginia_dignum.pdf>
 
-2)  Fjeld, Jessica, Nele Achten, Hannah Hilligoss, Adam Nagy, and
+2.  Fjeld, Jessica, Nele Achten, Hannah Hilligoss, Adam Nagy, and
     Madhulika Srikumar. \"Principled Artificial Intelligence: Mapping
     Consensus in Ethical and Rights-based Approaches to Principles for
     AI.\" Berkman Klein Center for Internet & Society, 2020.
 
-3)  Pasquale F, *New Laws of Robotics: Defending Human Expertise in the
+3.  Pasquale F, *New Laws of Robotics: Defending Human Expertise in the
     Age of AI* (Harvard University Press, 2020)
 
-4)  Proposal for a Regulation of The European Parliament and of The
+4.  Proposal for a Regulation of The European Parliament and of The
     Council Laying Down Harmonised Rules on Artificial Intelligence
     (Artificial Intelligence Act) and Amending Certain Union Legislative
     Acts ((European Commission, April 2021/0106 (COD))
 
-5)  Reed C., 'How should we regulate artificial intelligence?' (2018)
+5.  Reed C., 'How should we regulate artificial intelligence?' (2018)
     Phil. Trans. R. Soc. A 376: 20170360.
     <http://dx.doi.org/10.1098/rsta.2017.0360>
 
-6)  Wang P, 'On Defining Artificial Intelligence' (2019) 10(2) Journal
+6.  Wang P, 'On Defining Artificial Intelligence' (2019) 10(2) Journal
     of Artificial General Intelligence 1
