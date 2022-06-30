@@ -5,7 +5,6 @@ author: tess
 #categories: [ introduction ]
 image: assets/images/pillars.jpg
 featured: false
-published: true
 hidden: false
 ---
 

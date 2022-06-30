@@ -5,7 +5,6 @@ author: david
 categories: [ introduction ]
 image: assets/images/earth.jpg
 featured: false
-published: true
 hidden: false
 ---
 
