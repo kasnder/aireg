@@ -275,9 +275,9 @@ regulatory exercise is not merely prohibitive, but also permissive,
 and most of the time, an amalgamation of both. The true challenge is
 how to achieve that balance between over-regulating and
 under-regulating and between specificity and flexibility in such a
-regulatory exercise. It is hoped that the regulatory models and the
-challenges outlined above could, to a certain extent, provide some
-signposts on how to overcome this challenge.
+regulatory exercise. It is hoped that the regulatory models as well
+as the themes and guiding principles outlined above could, to a certain
+extent, provide some signposts on how to overcome this challenge.
 
 ## Bibliography
 
