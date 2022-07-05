@@ -192,6 +192,8 @@ protect users from harm.
 
 \[18\] Woods, L. The duty of care in the Online Harms White Paper. *Journal of Media Law 11*, 1 (Jan. 2019), 6--17.
 
+## Footnotes
+
 [^1]: Fitspiration images promote healthy living but may also reinforce thin-ideal by glorifying low-fat bodies, inducing feelings of guilt through stigmatising messages about body sizes, and promoting unhealthy attitudes towards exercise \[4\]
 
 [^2]: See Section 13(4) of the Online Safety Bill for the treatment requirements \[2\]
