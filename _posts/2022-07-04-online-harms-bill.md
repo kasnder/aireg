@@ -8,8 +8,6 @@ featured: false
 hidden: false
 ---
 
-# Introduction
-
 In March 2022, the Online Safety Bill (OSB) was introduced in the
 British Parliament. The Bill puts forth a regulatory framework that
 imposes a *duty of care* on large social media platforms to protect its
