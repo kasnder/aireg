@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "(How and When) Should AI be Regulated?"
-author: See
+author: see
 image: assets/images/library.jpg
 featured: false
 hidden: false
