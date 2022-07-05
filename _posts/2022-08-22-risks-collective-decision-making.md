@@ -5,7 +5,6 @@ author: luke
 #categories: [ introduction ]
 image: assets/images/gorge.jpg
 featured: false
-published: false
 hidden: false
 ---
 
