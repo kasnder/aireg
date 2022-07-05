@@ -154,14 +154,6 @@ developing user-centred measures that empower individuals to manage
 their social media preferences could be a highly effective measure to
 protect users from harm.
 
-## Footnotes
-
-[^1]: Fitspiration images promote healthy living but may also reinforce thin-ideal by glorifying low-fat bodies, inducing feelings of guilt through stigmatising messages about body sizes, and promoting unhealthy attitudes towards exercise \[4\]
-
-[^2]: See Section 13(4) of the Online Safety Bill for the treatment requirements \[2\]
-
-[^3]: Except for the first report, which must be provided sooner \[2, Section 56(6)\]
-
 ## References
 
 \[1\] Legislation loophole failing to protect adults from online suicide dangers, says Samaritans.
@@ -199,3 +191,11 @@ protect users from harm.
 \[17\] Valkenburg, P. M., and Peter, J. The Differential Susceptibility to Media Effects Model. *Journal of Communication 63*, 2 (Apr. 2013), 221-- 243.
 
 \[18\] Woods, L. The duty of care in the Online Harms White Paper. *Journal of Media Law 11*, 1 (Jan. 2019), 6--17.
+
+## Footnotes
+
+[^1]: Fitspiration images promote healthy living but may also reinforce thin-ideal by glorifying low-fat bodies, inducing feelings of guilt through stigmatising messages about body sizes, and promoting unhealthy attitudes towards exercise \[4\]
+
+[^2]: See Section 13(4) of the Online Safety Bill for the treatment requirements \[2\]
+
+[^3]: Except for the first report, which must be provided sooner \[2, Section 56(6)\]
