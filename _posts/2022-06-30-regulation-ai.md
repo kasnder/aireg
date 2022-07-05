@@ -2,7 +2,8 @@
 layout: post
 title:  "(How and When) Should AI be Regulated?"
 author: see
-image: assets/images/library.jpg
+categories: [ law ]
+image: assets/images/posts/library.jpg
 featured: false
 hidden: false
 ---

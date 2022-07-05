@@ -3,7 +3,7 @@ layout: post
 title:  "Introductory talk"
 author: david
 categories: [ introduction ]
-image: assets/images/earth.jpg
+image: assets/images/posts/earth.jpg
 featured: false
 hidden: false
 ---

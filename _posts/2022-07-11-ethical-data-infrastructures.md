@@ -2,8 +2,8 @@
 layout: post
 title:  "Ethical Data Architectures: Regulating (Soft) Platform Power"
 author: jake
-#categories: [ introduction ]
-image: assets/images/net.jpg
+categories: [ architectures, power ]
+image: assets/images/posts/net.jpg
 featured: false
 hidden: false
 published: false

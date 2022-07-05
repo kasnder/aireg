@@ -2,8 +2,8 @@
 layout: post
 title:  "The Unstable Foundation of the UK Online Safety Bill"
 author: claudine
-#categories: [ introduction ]
-image: assets/images/social-media.jpg
+categories: [ law, harms ]
+image: assets/images/posts/social-media.jpg
 featured: false
 hidden: false
 ---

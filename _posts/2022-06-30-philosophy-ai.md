@@ -2,8 +2,8 @@
 layout: post
 title:  "Philosophy and AI Regulation: Rule of Law and Justice"
 author: tess
-#categories: [ introduction ]
-image: assets/images/pillars.jpg
+categories: [ philosophy, justice ]
+image: assets/images/posts/pillars.jpg
 featured: false
 hidden: false
 ---

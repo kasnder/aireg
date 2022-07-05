@@ -16,97 +16,97 @@ authors:
   nigel:
     name: Nigel Shadbolt
     display_name: Nigel Shadbolt
-    avatar: assets/images/shadbolt.jpeg
+    avatar: assets/images/people/shadbolt.jpeg
     web: https://www.jesus.ox.ac.uk/about-jesus-college/our-community/people/nigel-shadbolt/
     description: "Professor Sir Nigel Shadbolt FRS from the University of Oxford"
   david:
     name: David Neuberger
     display_name: David Neuberger
-    avatar: 'assets/images/david.jpg'
+    avatar: 'assets/images/people/david.jpg'
     description: "The Rt Hon The Lord David Neuberger of Abbotsbury HonFRS"
     web: https://www.oeclaw.co.uk/barristers/profile/lord-neuberger-of-abbotsbury
   julie:
     name: Dr Julie Maxton
     display_name: Dr Julie Maxton
-    avatar: assets/images/Maxton.jpg
+    avatar: assets/images/people/Maxton.jpg
     web: https://royalsociety.org/people/julie-maxton-10021/ 
     description: "Executive Director of the Royal Society" 
   max:
     name: Dr Max Van Kleek
     display_name: Dr Max Van Kleek
-    avatar: assets/images/Kleek.png
+    avatar: assets/images/people/Kleek.png
     web: https://hip.cat/emax/about
     description: "Associate Professor of Human-Computer Interaction with the Department of Computer Science, at the University of Oxford"
   tesskonrad:
     name: Tess Buckley and Konrad Kollnig
     display_name: Tess and Konrad
-    avatar: 'assets/images/tess-konrad.jpg'
+    avatar: 'assets/images/people/tess-konrad.jpg'
     description: "Tess: MA Philosophy and Artificial Intelligence, NCH at Northeastern University; Konrad: PhD Student, Department of Computer Science, University of Oxford"
   tess:
     name: Tess Buckley
     display_name: Tess Buckley 
-    avatar: 'assets/images/tess.jpg'
+    avatar: 'assets/images/people/tess.jpg'
     web: https://www.linkedin.com/in/tess-buckley-a9580b166/
     description: "MA Philosophy and Artificial Intelligence, NCH at Northeastern University"
   konrad:
     name: Konrad Kollnig
     display_name: Konrad Kollnig
-    avatar: 'assets/images/konrad.jpg'
+    avatar: 'assets/images/people/konrad.jpg'
     web: https://kollnig.net
     twitter: https://twitter.com/FascinatingTech
     description: "PhD Student, Department of Computer Science, University of Oxford"
   luke:
     name: Luke Thorburn
     display_name: Luke Thorburn
-    avatar: 'assets/images/luke.jpg'
+    avatar: 'assets/images/people/luke.jpg'
     web: https://lukethorburn.com
     description: "Doctoral candidate in Safe & Trusted AI at King's College London"
   ulrik:
     name: Ulrik Lyngs
     display_name: Ulrik Lyngs
-    avatar: assets/images/Lyngs.jpeg
+    avatar: assets/images/people/Lyngs.jpeg
     web: https://ulriklyngs.com 
     description: "Carlsberg Foundation Oxford Visiting Fellow at the University of Oxford’s Human Centred Computing group"
   jake:
     name: Jake Stein
     display_name: Jake Stein 
-    avatar: assets/images/stein.jpg
-    web: https://www.linkedin.com/in/jake-stein-he-him-b7b4b594/?originalSubdomain=uk
+    avatar: assets/images/people/stein.jpg
+    web: https://www.linkedin.com/in/jake-stein-he-him-b7b4b594/
     description: "Oxford Martin School Doctoral Researcher for Ethical Web and Data Architectures in the Age of AI"
   ge:
     name: Ge Wang
     display_name: Ge Wang 
-    avatar: assets/images/wang.jpeg
+    avatar: assets/images/people/wang.jpeg
     web: https://www.tiffanygewang.com 
     description: "Dphil student in the Department of Computer Science at University of Oxford"
   claudine:
     name: Claudine Tinsman
     display_name: Claudine Tinsman 
-    avatar: assets/images/Tinsman.jpg
+    avatar: assets/images/people/Tinsman.jpg
     web: https://www.cs.ox.ac.uk/people/claudine.tinsman/
     description: "DPhil candidate in Cyber Security"
   see:
     name: Zheng Hong Sebastian See
     display_name: Zheng Hong Sebastian See
-    avatar: assets/images/see.jpeg
-    web: https://www.linkedin.com/in/zheng-hong-sebastian-see/?originalSubdomain=uk 
+    avatar: assets/images/people/see.jpeg
+    web: https://www.linkedin.com/in/zheng-hong-sebastian-see/
     description: "LLB and BCL (Oxon) Law Graduate and BVS Student"
   rachel:
     name: Rachel Venn
     display_name: Rachel Venn
-    avatar: assets/images/Venn.jpeg
+    avatar: assets/images/people/Venn.jpeg
     web: https://www.linkedin.com/in/rachelvenn/
     description: "MSc Space Science and Engineering at UCL"
   karan:
     name: Dr Karan Mehta
     display_name: Dr Karan Mehta
-    avatar: assets/images/Mehta.jpeg
-    web: https://www.linkedin.com/in/dr-karan-mehta-73272277/?originalSubdomain=uk 
+    avatar: assets/images/people/Mehta.jpeg
+    web: https://www.linkedin.com/in/dr-karan-mehta-73272277/
     description: "Founder & CEO at Bluezone Insurance" 
   alexandra:
     name: Alexandra Houston
     display_name: Alexandra Houston
-    avatar: assets/images/Houston.jpeg
+    avatar: assets/images/people/Houston.jpeg
     web: https://www.linkedin.com/in/alexandra-houston-76aab4ba/
     description: "Public Health MSc Student at LSHTM"
 

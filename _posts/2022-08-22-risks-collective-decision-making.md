@@ -2,8 +2,8 @@
 layout: post
 title:  "Algorithmic Risks to Collective Decision-Making"
 author: luke
-#categories: [ introduction ]
-image: assets/images/gorge.jpg
+categories: [ harms, risks ]
+image: assets/images/posts/gorge.jpg
 featured: false
 hidden: false
 published: false
