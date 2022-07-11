@@ -6,7 +6,6 @@ categories: [ architectures, power ]
 image: assets/images/posts/net.jpg
 featured: false
 hidden: false
-published: false
 ---
 
 Today's Web is an unequal one. A few centralized platforms capture a
