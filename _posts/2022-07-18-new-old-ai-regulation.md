@@ -6,7 +6,6 @@ categories: [ regulation, GDPR ]
 image: assets/images/posts/new-old.jpg
 featured: false
 hidden: false
-published: false
 ---
 
 *Personalised ads* are one of the most widespread AI applications and
