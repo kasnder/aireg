@@ -6,7 +6,7 @@ categories: [ ethics, healthcare ]
 image: assets/images/posts/doctor.jpg
 featured: false
 hidden: false
-published: false
+published: true
 ---
 
 AI is used in many parts of health provision, but perhaps the most
