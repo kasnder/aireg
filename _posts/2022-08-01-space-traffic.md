@@ -6,7 +6,7 @@ categories: [ space, traffic ]
 image: assets/images/posts/space.jpg
 featured: false
 hidden: false
-published: false
+published: true
 ---
 
 A niche, but growing use case for AI is in the space context. Recent
