@@ -6,7 +6,7 @@ categories: [ distraction ]
 image: assets/images/posts/distraction.jpg
 featured: false
 hidden: false
-published: false
+published: true
 ---
 
 Powerful, portable computing technologies like smartphones and laptops
