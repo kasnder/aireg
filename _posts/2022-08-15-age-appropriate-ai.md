@@ -6,7 +6,7 @@ categories: [ children, harms ]
 image: assets/images/posts/kid.jpg
 featured: false
 hidden: false
-published: false
+published: true
 ---
 
 AI algorithms are starting to play a variety of roles in the digital
