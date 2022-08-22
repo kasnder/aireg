@@ -6,7 +6,7 @@ categories: [ harms, risks ]
 image: assets/images/posts/gorge.jpg
 featured: false
 hidden: false
-published: false
+published: true
 ---
 
 Political and ideological divisions appear to be deepening in some
