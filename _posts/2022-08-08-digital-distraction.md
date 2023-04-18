@@ -116,15 +116,14 @@ underway in the [EU\'s Digital Services Act](https://ec.europa.eu/info/sites/def
 
 I wish to suggest a more far-reaching option: As mentioned, users
 already have the power on the web to control the appearance and
-functionality of websites via browser extensions. Mandating an analogue
-of this mobile apps could have radically empower users and allow the
-long tail of idiosyncratic \'online harms\' to be addressed in a
-bottom-up fashion.
+functionality of websites via browser extensions. 
+Mandating an analogue of this for mobile apps has the potential to radically empower users and allow the long tail of idiosyncratic 'online harms' to be addressed in a bottom-up fashion.
 
-The research project 'GreaseVision' is imagining what this might look
-like[^6]. GreaseVision is a technical system to allow end users to
+The research project 'GreaseVision', at our Human Centred Computing group at the University of Oxford, is imagining what this might look
+like[^6]. 
+GreaseVision is a technical system that allows end users to
 customise interfaces of their mobile apps to suit their needs, including
-around factors connected with self-regulation challenges. For example,
+elements connected with self-regulation challenges. For example,
 users can themselves limit the amount of content on recommender feeds,
 change the colour of notification markers, add overlays to particular
 types of unwanted content, and so on.
@@ -133,17 +132,14 @@ Providing end users a \'right to tinker\', via mandated provision of the
 equivalent of browser extensions for mobile apps, could be a highly
 impactful way to regulate.
 
-### Making non-exploitative business model more viable
+### Making non-exploitative business model more viable?
 
 Regulators may also consider a more hands-off approach focused on
-business models. Thus, rather than directly intervening on designs,
-regulators might try to make it more likely that design patterns
-supportive of self-regulation are viable on digital marketplaces.
+business models. 
+That is, instead of directly intervening on designs, regulators can make it more likely that apps which include design patterns that support self-regulation are viable on digital marketplaces.
 
-The underlying issue here is that many of the design patterns that cause
-self-regulation difficulties derive from business models that rely on
-selling user attention to companies and others who pay to have ads
-shown[^7]. Some have argued that digital platforms should be obliged to
+The underlying issue here is that many of the design patterns that cause self-regulation difficulties are a direct consequence of business models that rely on selling users' attention and data[^7].
+Some have argued that digital platforms should be obliged to
 provide subscription options that do not rely on targeted advertisement.
 A gentler approach is to mandate disclosure of specific practices tied
 to business models. For example, Apple recently began to require that
@@ -151,9 +147,9 @@ developers disclose on the App Store what user data apps collect. Such
 disclosures might make consumers more likely to pay for apps that do not
 rely on attention capture and targeted advertisement, analogous to how
 organic farming has been supported by labelling that makes consumers
-willing to pay a premium.
+more willing to pay a premium.
 
-Finally, a more radical approach is regulation aimed at disrupting
+Finally, a more radical approach is regulation that attempts to disrupt
 current tech architectures. Sir Tim Berners Lee\'s has proposed
 \'re-decentralising the web\' via interlinked \'Personal Online Data\'
 (POD) stores kept securely on servers of the user\'s choice[^8]. People
@@ -172,8 +168,8 @@ likely to be substantial.
 
 Digital devices like smartphones and laptops have revolutionised our
 world, but the instant connectivity they provide can lead to
-self-regulation failure rather than productivity and wellbeing. This is
-especially true for individuals who are attentionally vulnerable, for
+self-regulation failure that undermines productivity and wellbeing. This is
+especially true for individuals who are more attentionally vulnerable, for
 example children or adults with conditions like ADHD, making this an
 important concern for AI regulation.
 
